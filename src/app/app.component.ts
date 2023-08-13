@@ -9,7 +9,4 @@ import { Component } from '@angular/core';
 
 export class AppComponent {
   title = 'HP-Angular';
-  cad = 'Hola mundo';
-  Hola='hola LINDA';
-  imgHowarts='hogwartsjpg.jpg'
 }
