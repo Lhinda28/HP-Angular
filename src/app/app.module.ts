@@ -8,6 +8,7 @@ import { NavbarHpComponent } from './navbar-hp/navbar-hp.component';
 import { AlumnosComponent } from './alumnos/alumnos.component';
 import { CasasComponent } from './casas/casas.component';
 import { HechizosComponent } from './hechizos/hechizos.component';
+import { CardComponentComponent } from './card-component/card-component.component';
 
 @NgModule({
   declarations: [
@@ -15,7 +16,8 @@ import { HechizosComponent } from './hechizos/hechizos.component';
     NavbarHpComponent,
     AlumnosComponent,
     CasasComponent,
-    HechizosComponent
+    HechizosComponent,
+    CardComponentComponent
   ],
   imports: [
     BrowserModule,
