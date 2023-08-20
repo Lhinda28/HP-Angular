@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./hechizos.component.css']
 })
 export class HechizosComponent {
-
+  Hechizos='Hechizos';
+  imgHechizos='hechizos.gif'
 }
+
