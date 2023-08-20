@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./alumnos.component.css']
 })
 export class AlumnosComponent {
-
+  alumnos='Alumnos';
+  imgAlumnos='alumnos.jpg'
 }
