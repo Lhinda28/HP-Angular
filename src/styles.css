@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+@font-face {
+  font-family: 'HarryFont';
+  src: url('./assets/font/HARRYP__.TTF');
+}
+
+.font-potter{
+  font-family: 'HarryFont';
+}
+
+.color-poter{
+  background-color: #efb810;
+}
