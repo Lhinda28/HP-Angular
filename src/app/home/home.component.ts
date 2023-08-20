@@ -6,6 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./home.component.css']
 })
 export class HomeComponent {
-  Hola='hola LINDA';
+  Hola='Mundo Magico';
   imgHowarts='hogwartsjpg.jpg'
 }
